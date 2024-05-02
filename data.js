@@ -1,0 +1,22 @@
+
+export const sideNavs = [
+    { href: "Home", title: "Home",imgSrc:"/assets/home_img.jpeg" },
+    { href: "aboutinstitute", title: "About Institute",imgSrc:"" },
+    { href: "achievements", title: "Achievments",imgSrc:"" },
+    { href: "assignment", title: "Assignments",imgSrc:"" },
+    { href: "attendance", title: "Attendance",imgSrc:"" },
+    { href: "attednancehistory", title: "Academic History",imgSrc:"" },
+    { href: "behaviour", title: "Behaviour",imgSrc:"" },
+    { href: "calender", title: "Calender",imgSrc:"" },
+    { href: "chat", title: "Chat",imgSrc:"" },
+    { href: "classtimetable", title: "Class Timetable",imgSrc:"" },
+    { href: "complaints", title: "Complaints",imgSrc:"" },
+    { href: "email", title: "Email",imgSrc:"" },
+    { href: "examtimetable", title: "ExamTimetable",imgSrc:"" },
+    { href: "library", title: "Library",imgSrc:"./assets/library_logo.png" },
+    { href: "gallery", title: "Gallery",imgSrc:"" },
+    { href: "notification", title: "Notifications",imgSrc:"" },
+    { href: "transporation", title: "Transportation",imgSrc:"" },
+    { href: "salary", title: "Salary",imgSrc:"./assets/salary.jpeg" },
+    { href: "profile", title: "Profile",imgSrc:"" },
+  ]
